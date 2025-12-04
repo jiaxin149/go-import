@@ -4,6 +4,10 @@
 - **Golang每日一库** https://juejin.cn/column/7289249524324466724
 >golang每日一库，能发现很多优秀的库
 
+- **resty** https://github.com/go-resty/resty
+>简单方便的http客户端库（有sse封装）
+
+
 - **ristretto** https://github.com/dgraph-io/ristretto
 >本地带过期的高性能kv缓存库
 
